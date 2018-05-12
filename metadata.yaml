@@ -1,0 +1,34 @@
+_repo: The-Secret-Glory_35637
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Machen, Arthur
+    birthdate: 1863
+    deathdate: 1947
+    gutenberg_agent_id: '214'
+    url: http://www.gutenberg.org/2009/agents/214
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Machen
+description: Did the Holy Grail survive to modern times? Before The Da Vinci code,
+  Arthur Machen explored that idea in this semi-autobiographical tale of Ambrose Meyrick,
+  a rebellious boy who survives a sadistic public schooling, recovers hidden memories
+  of the Grail, and becomes a master of Celtic mysticism.
+gutenberg_issued: '2011-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35637'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Endowed public schools (Great Britain) -- Fiction'
+- !lcsh 'Sanctification -- Fiction'
+- !lcsh 'Grail -- Fiction'
+- !lcsh 'Visions -- Fiction'
+- !lcsh 'Teenage boys -- Fiction'
+title: The Secret Glory
+url: http://www.gutenberg.org/ebooks/35637
